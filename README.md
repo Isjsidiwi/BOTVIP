@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/KurrXd/Elaine-Botz-Whatsapp/master/logonya2.jpeg" alt="XINZ BOT" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/KurrXd/FARIS-BOT-Whatsapp/master/logonya2.jpeg" alt="XINZ BOT" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Elaine Botz Whatsapp" src="https://img.shields.io/badge/Elaine Botz Whatsapp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -31,29 +31,26 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/KurrXd/Elaine-Botz-Whatsapp
-cd Elaine-Botz-Whatsapp
-npm install
-node index
+git clone[ https://github.com/Isjsidiwi/BOTVIP
+cd BOTVIP
+npm start
 ```
 ## For Termux
 ```bash
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/KurrXd/Elaine-Botz-Whatsapp
-cd Elaine-Botz-Whatsapp
-npm install
-node index
+git clone https://github.com/Isjsidiwi/BOTVIP
+cd BOTVIP
+npm start
 ```
 
 ## For VPS
 ```bash
 apt install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/KurrXd/Elaine-Botz-Whatsapp
+git https://github.com/Isjsidiwi/BOTVIP
 cd Elaine-Botz-Whatsapp
-npm install
-node index
+cd BOTVIP
 ```
 
 
