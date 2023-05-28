@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/KurrXd/FARIS-BOT-Whatsapp/master/logonya2.jpeg" alt="XINZ BOT" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/KurrXd/FARIS-BOT-Whatsapp/master/logonya2.jpeg" alt="FARIS-BOT" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="FARIS-BOT Whatsapp" src="https://img.shields.io/badge/Elaine Botz Whatsapp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
